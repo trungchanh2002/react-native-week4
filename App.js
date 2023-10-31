@@ -34,9 +34,9 @@ import App3 from "./App3";
 import App4 from "./App4";
 
 const App = () => {
-  return <App1 />;
-  return <App2 />;
-  return <App3 />;
+  // return <App1 />;
+  // return <App2 />;
+  // return <App3 />;
   return <App4 />;
 };
 export default App;
